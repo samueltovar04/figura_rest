@@ -7,9 +7,13 @@
             <file>file:/home/stovar/NetBeansProjects/figurarestapi/src/java/com/example/geo/dao/AbstractFacade.java</file>
             <file>file:/home/stovar/NetBeansProjects/figurarestapi/src/java/com/example/geo/service/FigureService.java</file>
             <file>file:/home/stovar/NetBeansProjects/figurarestapi/src/java/com/example/geo/model/AbstractFigure.java</file>
+            <file>file:/home/stovar/NetBeansProjects/figurarestapi/src/java/com/example/geo/resource/Triangle.java</file>
+            <file>file:/home/stovar/NetBeansProjects/figurarestapi/src/java/com/example/geo/resource/Square.java</file>
             <file>file:/home/stovar/NetBeansProjects/figurarestapi/src/java/com/example/geo/service/FigureFactory.java</file>
             <file>file:/home/stovar/NetBeansProjects/figurarestapi/src/java/com/example/geo/model/FigureModel.java</file>
             <file>file:/home/stovar/NetBeansProjects/figurarestapi/src/conf/persistence.xml</file>
+            <file>file:/home/stovar/NetBeansProjects/figurarestapi/src/java/com/example/geo/resource/Circle.java</file>
+            <file>file:/home/stovar/NetBeansProjects/figurarestapi/src/java/com/example/geo/resource/Figure.java</file>
         </group>
     </open-files>
 </project-private>
